@@ -5,6 +5,7 @@ and developed in coffeescript with angular.js.
 
 * Steps for creating this project
 
+* gem install middleman
 * middleman new middleman-angular-coffeescript-slim
 * cd $_
 * bower install angularjs
