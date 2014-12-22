@@ -29,5 +29,39 @@ Coffeescript support is included by sprockets and the asset pipeline.
 * browse to http://localhost:4567 and you should see the alert dialog.
 
 
+Chapter 2
+==========
+
+Local Storage
+
+
+Chapter 3
+=========
+
+CSS Layout
+
+
+Chapter 4
+=========
+
+Nested Controllers
+
+
+Chapter 5
+=========
+
+Routes
+
+
+Chapter 6
+=========
+
+Navigation
+
+
+
+
+
+
 
 
